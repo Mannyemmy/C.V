@@ -30,7 +30,7 @@ export const Footer: React.FC = () => {
         <div className="mt-6">
           Copyright ©{new Date().getFullYear()} {fullName}
         </div>
-
+        {/* 
         <div className="mt-1 text-sm">
           This résumé was generated with{' '}
           <a className="link" href="https://nextjs.org/">
@@ -48,7 +48,7 @@ export const Footer: React.FC = () => {
             nextjs-resume
           </a>
           !
-        </div>
+        </div> */}
       </div>
     </footer>
   );
