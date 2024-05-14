@@ -1,7 +1,7 @@
 ---
-achievement: Some Certification
-organization: Some Program
-completionYear: 2015
+achievement: DevCareer Frontend Developer Certificate
+organization: DevCareer
+completionYear: 2023
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Neque viverra justo nec ultrices. Urna nunc id cursus metus aliquam eleifend mi in nulla. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Tristique senectus et netus et malesuada fames ac.
+Earning a front-end developer certification validated my skills in HTML, CSS, and JavaScript, i covered frameworks like React and Jquery, giving me a competitive edge, refreshing my knowledge, and showcasing my dedication to continuous learning in the ever-evolving web development landscape.

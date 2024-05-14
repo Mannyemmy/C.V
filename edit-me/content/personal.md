@@ -1,9 +1,9 @@
 ---
-givenName: Stacy
-familyName: Fakename
-title: Official Job Title
-location: Austin, TX
-twitterUsername: stacy_fakename
+givenName: Emmanuel
+familyName: Ekundayo
+title: Frontend Web Developer
+location: Kigali, Rwanda
+twitterUsername: ''
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Neque viverra [justo nec ultrices](#). Urna nunc id cursus metus aliquam eleifend mi in nulla. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra.
+A passionate React and Next.js developer with four years of experience, I craft user-friendly and performant web applications using my expertise in UI development, state management, and performance optimization. I bring strong communication and collaboration skills to translate designs into exceptional user experiences, and I'm a continuous learner always seeking the latest advancements in the ever-evolving web development landscape.
